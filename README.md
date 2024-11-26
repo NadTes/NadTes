@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NadTes
-- 👀 I’m interested in Phiton
+- 👀 I’m interested in Python
 - 🌱 I teach python programming
 - 💞️ I am looking for opportunities to collaborate with other teachers.
 - 📫 How to reach me tesl0nad@ya.ru
